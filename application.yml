@@ -1,2 +1,2 @@
-test:
-  value: "from git configserver"
+server:
+  port: 9000
